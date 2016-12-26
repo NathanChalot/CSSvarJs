@@ -1,4 +1,4 @@
-# jsClock
+# Play with CSS variables
 Third project of [Javascript 30 days challenge](https://javascript30.com/) from [Wes Bos](https://github.com/wesbos)
 
 
